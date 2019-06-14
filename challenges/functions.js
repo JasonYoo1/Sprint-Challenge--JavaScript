@@ -42,7 +42,7 @@ consume("Mary","Poppins", greeting); // Hello Mary Poppins, nice to meet you!
 
 // Explanation: 
 
-// the function body has access to variables that are defined
+// the function body has access to variables that are defined outside of the function
 const external = "I'm outside the function";
 
 function myFunction() {
